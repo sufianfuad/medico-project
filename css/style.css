@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Pacifico&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navBg{
+    background-color: rgba(50, 70, 86,50);
+    color: white;
+}
+#logoTitle{
+    color: #f0f0f0;
+    font-weight: 400;
+}
+.main-body{
+    /* background-color: darkcyan; */
+    background-color: #00adef;
+}
+.welcome{
+    font-family: 'Pacifico', cursive;
+    
+}
+.second-part{
+    margin-top: 40px;
+    background-color: darkslateblue;
+    padding: 25px;
+}
+#footer{
+    background-color: rgba(50, 70, 86,50);
+}
