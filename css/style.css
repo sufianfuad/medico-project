@@ -10,9 +10,28 @@
     background-color: rgba(50, 70, 86,50);
     color: white;
 }
+.title{
+    font-size: 25px;
+    font-weight: 700;
+}
+#title-color{
+    color: #00adef;
+}
 #logoTitle{
     color: #f0f0f0;
     font-weight: 400;
+}
+#search-button{
+    background-color: #00adef;
+    color: #f0f0f0;
+}
+#sign{
+    background-color: #00adef;
+    color: #f0f0f0;
+}
+.bi{
+    font-size: 20px;
+    color: #f0f0f0;
 }
 .main-body{
     /* background-color: darkcyan; */
@@ -24,7 +43,8 @@
 }
 .second-part{
     margin-top: 40px;
-    background-color: darkslateblue;
+    /* background-color: darkslateblue; */
+    background-color: darkcyan;
     padding: 25px;
 }
 #footer{
