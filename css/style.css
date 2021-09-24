@@ -18,10 +18,6 @@
 #title-color{
     color: #00adef;
 }
-/* #logoTitle{
-    color: #f0f0f0;
-    font-weight: 400;
-} */
 #search-button{
     background-color: #00adef;
     color: #f0f0f0;
@@ -33,9 +29,11 @@
 .bi{
     font-size: 20px;
     color: #f0f0f0;
+    background-color: black;
+    padding: 0px 4px 3px 4px;
+    border-radius: 50%;
 }
 .main-body{
-    /* background-color: darkcyan; */
     background-color: #00adef;
 }
 .welcome{
@@ -48,6 +46,3 @@
     background-color: darkcyan;
     padding: 25px;
 }
-/* #footer{
-    background-color: rgba(50, 70, 86,50);
-} */
