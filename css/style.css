@@ -11,16 +11,17 @@
     color: white;
 }
 .title{
+    color: #f0f0f0;
     font-size: 25px;
     font-weight: 700;
 }
 #title-color{
     color: #00adef;
 }
-#logoTitle{
+/* #logoTitle{
     color: #f0f0f0;
     font-weight: 400;
-}
+} */
 #search-button{
     background-color: #00adef;
     color: #f0f0f0;
@@ -47,6 +48,6 @@
     background-color: darkcyan;
     padding: 25px;
 }
-#footer{
+/* #footer{
     background-color: rgba(50, 70, 86,50);
-}
+} */
